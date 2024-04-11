@@ -1,0 +1,34 @@
+.select-dropdown{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 25%;
+    cursor: pointer;
+}
+
+.option-dropdown{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 25%;
+    cursor: pointer;
+}
+
+.radio-key{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.radio-input{
+    cursor: pointer;
+}

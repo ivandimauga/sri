@@ -1,0 +1,203 @@
+.background {
+    background-color: #F7F7F7;
+    display: flex;
+    justify-content: center;
+}
+  
+.container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border: 2px solid #CCCCCC;
+    margin: 50px 150px;
+    position: relative;
+}
+  
+.header-img {
+    width: 100%;
+    margin-bottom: 0px;
+}
+  
+h1 {
+    font-family: Arial;
+    font-size: 20px;
+    color: #282828;
+}
+
+hr {
+    border-top: 1px solid #CCCCCC;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 15px;
+    color: #282828;
+}
+
+.dai-inside {
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    display: block;
+    margin-left: 50px;
+}
+
+.dai-outside {
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    display: block;
+}
+
+.category-input {
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 25%;
+}
+
+.sb-name {
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    margin-left: 50px;
+}
+
+.submittedby-input {
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 12%;
+}
+
+.sb-others{
+    font-family: Arial;
+    font-size: 10px; 
+    color: #282828; 
+    padding-left: 20px;
+}
+
+.cb-inside{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828; 
+    margin-left: 50px;
+}
+
+.agencyhead-input{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 25%;
+    margin: 10px 0px;
+}
+
+.cb-radio{
+    margin: 10px 50px;
+}
+
+h3 {
+    font-family: Arial; 
+    font-size: 10px;
+    font-style: italic;
+    color: #282828; 
+    margin-left: 50px;
+}
+
+.igsi-input{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 7%;
+}
+
+.r-input{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 12%;
+}
+
+.fsps-input{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 12%;
+}
+
+.fsmooe-input{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 12%;
+}
+
+.igsin-input{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 50%;
+    height: 50px;
+}
+
+.ur-p{
+    font-family: Arial;
+    font-size: 10px;
+    color: #282828; 
+    margin-left: 50px;
+}
+
+.ur-inside{
+    font-family: Arial;
+    font-size: 10px; 
+    color: #282828;
+    margin-left: 50px;
+}
+
+.ur-input {
+    font-family: Arial; 
+    font-size: 10px;
+    color: 282828;
+}
+
+.ur-input {
+    font-family: Arial; 
+    font-size: 10px;
+    color: 282828;
+}
+
+.submit-button{
+    background-color: #007bff;
+    font-family: Arial; 
+    font-size: 10px;
+    color: white;
+    margin-left: 50px;
+    padding: 2px 10px;
+    border: 1px solid #0056b3;
+    border-radius: 2px;
+    cursor: pointer;
+}

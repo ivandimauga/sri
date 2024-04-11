@@ -1,0 +1,76 @@
+.res-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.res-table-wrapper {
+  display: inline-block;
+  white-space: nowrap;
+  position: relative;
+  overflow-x: auto;
+  padding: 15px;
+}
+
+.res-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.res-tr-header {
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+.res-th {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  color: #282828;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+}
+
+.res-td {
+  text-align: center;
+  padding: 8px;
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  width: 70%;
+}
+
+.res-header-container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.res-search-input {
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #CCCCCC;
+  width: 20%;
+  flex: 1;
+  margin-right: 650px;
+}
+
+.res-export-button {
+  background-color: #CCCCCC;
+  font-family: Arial; 
+  font-size: 10px;
+  color: #282828;
+  margin-left: 15px;
+  padding: 8px 12px;
+  border: 1px solid #282828;
+  border-radius: 5px;
+  cursor: pointer;
+}
